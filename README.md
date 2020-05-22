@@ -1,5 +1,5 @@
 ![](logo-big.jpg)<br />
-## Welcome to Quisur!<br /><br />
+##       Welcome to Quisur!<br /><br />
 
 
 Quisur is a simple application written in Python to create and conduct quick survey. <br />
