@@ -1,4 +1,4 @@
-# ![](logo-big.jpg)<br />
+![](logo-big.jpg)<br />
 # Welcome to Quisur!<br /><br />
 
 
