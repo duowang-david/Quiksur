@@ -3,7 +3,7 @@ Welcome to Quisur!<br /><br />
 
 
 Quisur is a simple application written in Python to create and conduct quick survey. <br />
-Use Quiksur.py to run Quiksur application.<br />
+Use Quiksur.py in Quiksur_App folder to run Quiksur application.<br />
 The documentation file demonstrates essential functionalities of Quiksur. <br /><br />
 
 
